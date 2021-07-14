@@ -1,0 +1,5 @@
+Host ssc
+	Hostname 157.230.242.65
+	User heidi
+	IdentityFile key
+	ServerAliveInterval 30
